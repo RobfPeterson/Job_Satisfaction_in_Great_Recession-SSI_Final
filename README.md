@@ -1,1 +1,1 @@
-# Job_Satisfaction_in_Great_Recession-SSI_Final
+# Job Satisfaction in Great Recession-SSI Final
